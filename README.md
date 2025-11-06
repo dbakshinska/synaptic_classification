@@ -1,4 +1,4 @@
-# ML Project: Synapse Classification
+# Synaptic Classification
 
 ## Project Overview
 This project aims to develop a predictive model to classify synapses into different genotypes based on their synaptic characteristics. The model was trained using data collected during my Ph.D. research on synaptic behavior in neurons under various conditions. The goal was to predict the genotype (Wild Type, Unc13A-RNAi, Unc13B-RNAi) of synapses using several engineered features.
